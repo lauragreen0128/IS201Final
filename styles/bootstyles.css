@@ -1,0 +1,45 @@
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border: solid 1px white;
+    background-color: gray;
+    text-align: center;
+    font: color rgb(14, 55, 14);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+    background-color: gray;
+    border:solid 1px white;
+    
+    
+}
+
+.footer{
+    bottom: 5px;
+    height: 20px;
+    left: 5px;
+    right: 5px;
+    font-size: 15px;
+    color: rgb(42, 41, 41);
+    text-align: center ;
+    background-color: gray;
+    border:solid 1px white;
+    
+}
+
+.bodytext{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
